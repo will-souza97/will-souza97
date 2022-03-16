@@ -14,9 +14,9 @@
   <div>
     <div align="center" style="display: flex; flex-direction: colum">
       <a href="https://github.com/will-souza97">
-        <img height="191em"
+        <img height="161em"
           src="https://github-readme-stats.vercel.app/api?username=will-souza97&show_icons=true&theme=github_dark" />
-        <img height="191em"
+        <img height="161em"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-souza97&layout=compact&langs_count=7&theme=github_dark" />
     </div>
   </div>
