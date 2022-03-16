@@ -24,37 +24,23 @@
   <h4 align="center">These are the technologies I work/study with:</h4>
 
   <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="TypeScript" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="JavaScript" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="NodeJS" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Jest" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-    <img align="center" alt="Jasmine" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
-    <img align="center" alt="Sass" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="center" alt="Express" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
+    <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank">
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" target="_blank">
+    <img align="center" alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" target="_blank">
+    <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank">
   </div><br>
 
   <h4 align="center">These are the technologies with which I intend to study:</h4>
 
   <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Nestjs" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-    <img align="center" alt="Nextjs" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Graphql" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-    <img align="center" alt="Apache Kafka" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-    <img align="center" alt="Docker" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-    <img align="center" alt="Nginx" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+    <img align="center" alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" target="_blank">
+    <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" target="_blank">
+    <img align="center" alt="Graphql" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" target="_blank">
+    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+    <img align="center" alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" target="_blank">
+    <img align="center" alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank">
   </div>
 
 ##
