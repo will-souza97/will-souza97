@@ -20,6 +20,8 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-souza97&layout=compact&langs_count=7&theme=github_dark" />
     </div>
   </div>
+  
+##
 
   <h4>These are the technologies I work/study with:</h4>
 
@@ -31,6 +33,8 @@
     <img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" target="_blank">
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank">
   </div><br>
+  
+##
 
   <h4>These are the technologies with which I intend to study:</h4>
 
