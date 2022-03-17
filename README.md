@@ -9,7 +9,7 @@
     <li>💬 Ask me about anything, I’m happy to answer</li>
   </ul>
   
-  ## These are the technologies I work/study with:
+  ## 🚀️ These are the technologies I work/study with:
 
   <div  style="display: inline_block">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
@@ -30,7 +30,7 @@
     </div>
   </div><br><br>
   
-  ## These are the technologies with which I intend to study:
+  ## 👨‍💻 These are the technologies with which I intend to study:
 
   <div style="display: inline_block">
     <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" target="_blank">
